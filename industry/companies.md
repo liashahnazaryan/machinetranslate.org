@@ -15,19 +15,19 @@ Since the advent of statistical machine translation and neural machine translati
 
 ## 2020
 
-### Viva Translate
+### Viva Translate | https://vivatraduce.com/en/
 
 Raised pre-seed from Blue Ridge Foundation and $4M from General Catalyst, AIX Ventures, Fellows Fund, Hyphen Capital, First Check Ventures and angels
 
 
 ## 2019
 
-### ModelFront
+### ModelFront | https://modelfront.com/
 
 
 ## 2018
 
-### ImageTranslate
+### ImageTranslate | https://www.imagetranslate.com/
 
 
 ## 2017
